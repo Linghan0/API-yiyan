@@ -1,0 +1,23 @@
+# Environment files
+.env
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build files
+*.map
+*.min.*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local development files
+*.local.php
